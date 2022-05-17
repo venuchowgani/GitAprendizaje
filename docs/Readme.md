@@ -5,3 +5,4 @@
 * Merging
 * Rebase
 * Cherry picking
+* Remote repositories
